@@ -1,11 +1,21 @@
-    body {
-        background-image: url(matt.jpg);
-        background-repeat: no-repeat;
-        background-position: center;
-        background-size: cover;
-        background-attachment: fixed;
-    }
-    
-    p {
-        color: rgb(230, 106, 5);
-    }
+body {
+    background-image: url(img/SpotlessWelloffAtlanticridleyturtle-size_restricted.gif);
+}
+
+p {
+    color: rgb(201, 11, 74);
+}
+
+form {
+    margin: 100px;
+    padding: 50px;
+}
+
+fieldset {
+    color: rgb(163, 7, 90);
+}
+
+input {
+    margin: 10px;
+    padding: 5px;
+}
